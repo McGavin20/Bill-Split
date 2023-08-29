@@ -140,3 +140,7 @@ struct ContentView: View {
 # 🔗 Additional Related Links
 
 - [Apple's SwiftUI Homepage](https://developer.apple.com/xcode/swiftui/)
+
+## Developer
+
+Sharma McGavin
